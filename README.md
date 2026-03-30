@@ -33,12 +33,13 @@ KNN achieved near-perfect classification performance, while SVM, QDA, and Random
 R, caret, e1071, randomForest, MASS, DMwR
 
 ## 👩‍💻 Authors
+
 - Mahmudul Hasan Mamun (PhD Candidate in Statistics & Analytics)  
 - Ruthwik Nadam  
 - Ayman Almomany  
 
-Department of Statistics, Actuarial & Data Sciences
-Central Michigan University 
+Department of Statistics, Actuarial & Data Sciences  
+Central Michigan University  
 
 **Focus:** Statistical modeling, machine learning, and applied data analysis
 
