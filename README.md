@@ -37,9 +37,10 @@ R, caret, e1071, randomForest, MASS, DMwR
 - Ruthwik Nadam  
 - Ayman Almomany  
 
-Central Michigan University  
+Department of Statistics, Actuarial & Data Sciences
+Central Michigan University 
 
-**Research Focus (Mamun):** Statistical modeling, machine learning, and applied data analysis
+**Focus:** Statistical modeling, machine learning, and applied data analysis
 
 ## Note
 This repository contains project materials developed as part of a graduate course project at Central Michigan University.
