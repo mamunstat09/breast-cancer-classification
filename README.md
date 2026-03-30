@@ -41,7 +41,7 @@ R, caret, e1071, randomForest, MASS, DMwR
 Department of Statistics, Actuarial & Data Sciences  
 Central Michigan University  
 
-**Focus:** Statistical modeling, machine learning, and applied data analysis
+**Focus:** Statistical modeling, data science, machine learning, and applied data analysis
 
 ## Note
 This repository contains project materials developed as part of a graduate course project at Central Michigan University.
