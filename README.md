@@ -67,4 +67,4 @@ Central Michigan University
 ---
 
 ## 📎 Note
-This repository contains project materials developed as part of a graduate course project at Central Michigan University.
+This repository contains project materials developed as part of a graduate course project in 2024 at Central Michigan University.
